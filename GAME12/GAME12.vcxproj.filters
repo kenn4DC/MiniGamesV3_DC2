@@ -2,9 +2,49 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="GAME12.cpp" />
+    <ClCompile Include="BLOCK.cpp" />
+    <ClCompile Include="BULLET.cpp" />
+    <ClCompile Include="BULLETS_MANAGER.cpp" />
+    <ClCompile Include="CHARACTER.cpp" />
+    <ClCompile Include="COLLISION.cpp" />
+    <ClCompile Include="ENEMIES_BULLETS_MANAGER.cpp" />
+    <ClCompile Include="ENEMIES_MANAGER.cpp" />
+    <ClCompile Include="ENEMY.cpp" />
+    <ClCompile Include="ENEMY_BULLET.cpp" />
+    <ClCompile Include="FLOAT2.cpp" />
+    <ClCompile Include="GAME_CLEAR.cpp" />
+    <ClCompile Include="GAME_OBJECT.cpp" />
+    <ClCompile Include="GAME_OVER.cpp" />
+    <ClCompile Include="HELP.cpp" />
+    <ClCompile Include="PLAYER.cpp" />
+    <ClCompile Include="PLAYER_BULLET.cpp" />
+    <ClCompile Include="PLAYER_BULLETS_MANAGER.cpp" />
+    <ClCompile Include="SCENE.cpp" />
+    <ClCompile Include="STAGE.cpp" />
+    <ClCompile Include="TITLE.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GAME12.h" />
+    <ClInclude Include="BLOCK.h" />
+    <ClInclude Include="BULLET.h" />
+    <ClInclude Include="BULLETS_MANAGER.h" />
+    <ClInclude Include="CHARACTER.h" />
+    <ClInclude Include="COLLISION.h" />
+    <ClInclude Include="ENEMIES_BULLETS_MANAGER.h" />
+    <ClInclude Include="ENEMIES_MANAGER.h" />
+    <ClInclude Include="ENEMY.h" />
+    <ClInclude Include="ENEMY_BULLET.h" />
+    <ClInclude Include="FLOAT2.h" />
+    <ClInclude Include="GAME_CLEAR.h" />
+    <ClInclude Include="GAME_OBJECT.h" />
+    <ClInclude Include="GAME_OVER.h" />
+    <ClInclude Include="HELP.h" />
+    <ClInclude Include="PLAYER.h" />
+    <ClInclude Include="PLAYER_BULLET.h" />
+    <ClInclude Include="PLAYER_BULLETS_MANAGER.h" />
+    <ClInclude Include="SCENE.h" />
+    <ClInclude Include="STAGE.h" />
+    <ClInclude Include="TITLE.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\MAIN\assets\game12\title.txt" />
