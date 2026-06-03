@@ -5,7 +5,6 @@ namespace GAME14
 {
 	int GAME::create()
 	{
-		//
 		return 0;
 	}
 
